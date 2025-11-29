@@ -106,7 +106,7 @@ public class AuthController {
         mainView.getBtnDangXuat().setEnabled(true);
         mainView.getBtnThoat().setEnabled(true);
     }
-
+//aa
     public void khoiDong() {
         loginView.hienThiManHinhDangNhap();
     }
